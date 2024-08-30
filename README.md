@@ -1,9 +1,6 @@
-Hello hello and welcome! I'm Chisorom Obika
+## Hello hello, I'm Chisorom 
 <a href="https://linkedin.com/in/chisoromobika/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-
-## About me 
 I love following trails and clues. This curiosity led me down the OSINT path and then the cybersecurity path in that order.  
 
 
@@ -28,7 +25,7 @@ where I can combine my investigative and technical skills to help security teams
 | Disk and Memory forensic analysis               | Malware Analysis Lab|
 | Email and Social media analysis                 | OSINT Lab|
 | Dark web monitoring                             | OSINT Lab |
-| 
+
 
 
 ## Tools
