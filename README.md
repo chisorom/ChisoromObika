@@ -7,7 +7,7 @@ I love following trails and clues. This curiosity led me down the OSINT path and
 
 Whether it’s diving deep into threat intelligence, dissecting malware, or monitoring systems for suspicious activity, I’m all about staying ahead of threats. 
 When I’m not hunting down threats, you’ll find me doing 2 things;
-1. Sharing insights and tips I gather from security research on my Medium blog.
+1. Sharing insights and tips I gather from security research on my Medium blog - https://medium.com/@chiobika
 2. Making OSINT walkthroughs on my medium blog.
 
 
@@ -23,9 +23,10 @@ where I can combine my investigative and technical skills to help security teams
 |-------------------------------------------------|----------------------------|
 | Network Traffic Monitoring and Attack Detection | Malware Analysis Lab|
 | Disk and Memory forensic analysis               | Malware Analysis Lab|
+| Dynamic malware analysis                        | Malware Analysis Lab |
 | Email and Social media analysis                 | OSINT Lab|
 | Dark web monitoring                             | OSINT Lab |
-
+|
 
 
 ## Tools
