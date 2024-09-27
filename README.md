@@ -12,8 +12,8 @@ When I’m not hunting for threats, you’ll find me doing 2 things;
 
 
 ## Objective
-Now, as a security analyst, I aim to join a Security Operations Center (SOC) as a Tier 1 MDR Analyst. 
-where I can combine my investigative and technical skills to help security teams.
+As a security analyst, I aim to contribute to securing digital assets and digital ecosystems. By looking at a company's publicly available information and assets, I find ways they can tighten their defenses against threat actors. 
+
 
 
 
@@ -26,19 +26,19 @@ where I can combine my investigative and technical skills to help security teams
 | Dynamic malware analysis                        | Malware Analysis Lab |
 | Email and Social media analysis                 | OSINT Lab|
 | Dark web monitoring                             | OSINT Lab |
-|
+|Reconnaisance                                    | OSINT lab |
 
 
 ## Tools
-Network monitoring tools: Wireshark, Nmap, tcpdump 
+Network monitoring and reconnaissance tools: Wireshark, Nmap, tshark, Amass 
   
-Vulnerability Scanning: OpenVAS, Nessus
+Vulnerability Scanning: OpenVAS, Nikto
  
 SIEM tools: Splunk
 
 Forensic analysis tools: Autopsy, FTKimager, Redline, Volatility
 
-Malware analysis tools: REMnux, VisrusTotal, Anyrun, Joe's Sandbox, 
+Malware analysis tools: REMnux, VisrusTotal, Anyrun,  
 
 EDR tools: SentinelOne
 
@@ -48,4 +48,4 @@ Scripting languages: Python, Bash.
 
 IDS/IPS: Snort 
 
-OSINT tools: Google Dorking, OSINT framework, Shodan.
+OSINT tools: OSINT framework, Shodan
