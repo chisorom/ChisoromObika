@@ -1,14 +1,14 @@
 ## Hello hello, I'm Chisorom 
 <a href="https://linkedin.com/in/chisoromobika/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I love following trails and clues. This curiosity led me down the OSINT path and then the cybersecurity path in that order.  
+I love following trails and clues. This curiosity led me down the OSINT and then cybersecurity paths in that order. 
 
 
 
-Whether it’s diving deep into threat intelligence, dissecting malware, or monitoring systems for suspicious activity, I’m all about staying ahead of threats. 
-When I’m not hunting down threats, you’ll find me doing 2 things;
-1. Sharing insights and tips I gather from security research on my Medium blog - https://medium.com/@chiobika
-2. Making OSINT walkthroughs on my medium blog.
+Whether it’s diving deep into threat investigations, dissecting malware, or monitoring systems for suspicious activity, I’m all about staying ahead of the risks posed to a company's brand and its people.  
+When I’m not hunting for threats, you’ll find me doing 2 things;
+1. Sharing ways companies and people can secure their information on my Medium blog - https://medium.com/@chiobika
+2. Participating in OSINT CTFs.
 
 
 ## Objective
