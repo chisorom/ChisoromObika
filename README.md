@@ -1,32 +1,42 @@
-## Hello hello, I'm Chisorom 
+## Hello, I'm Chisorom 
 <a href="https://linkedin.com/in/chisoromobika/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I love following trails and clues. This curiosity led me down the OSINT and then cybersecurity paths in that order. 
+
+## PROJECTS
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>BASH Scripting for testing and Automation </b>
+  - [Ransomware simulation script](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [GnuPG encryption script with cron task scheduler](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Forensic Analysis (Joint project)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 
 
-Whether it’s diving deep into threat investigations, dissecting malware, or monitoring systems for suspicious activity, I’m all about staying ahead of the risks posed to a company's brand and its people.  
-When I’m not hunting for threats, you’ll find me doing 2 things;
-1. Sharing ways companies and people can secure their information on my Medium blog - https://medium.com/@chiobika
-2. Participating in OSINT CTFs.
+<h2>📺 Popular YouTube Videos</h2>
+
+- (https://www.youtube.com/watch?v=a83ASGn_V_s)
+- (https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- (https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2>📺 Medium Cybersecurity blog</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-## Objective
-As a security analyst, I aim to contribute to securing digital assets and digital ecosystems. By looking at a company's publicly available information and assets, I find ways they can tighten their defenses against threat actors. 
+[YouTube]: https://www.youtube.com/c/joshmadakor
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 
 
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-------------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | Malware Analysis Lab|
-| Disk and Memory forensic analysis               | Malware Analysis Lab|
-| Dynamic malware analysis                        | Malware Analysis Lab |
-| Email and Social media analysis                 | OSINT Lab|
-| Dark web monitoring                             | OSINT Lab |
-|Reconnaisance                                    | OSINT lab |
 
 
 ## Tools
