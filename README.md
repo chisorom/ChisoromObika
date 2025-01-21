@@ -15,7 +15,7 @@ As an Information security analyst, I aim to contribute to securing digital asse
 - <b>Digital Forensics and Malware Analysis Lab (Dynamic Malware Analysis and Disk image extraction) </b>
   - [Wannacry ransomware Analysis] 
 - <b>Network Traffic Analysis</b>
-  - [Wireshark Network Traffic Analysis]
+  - [Wireshark Network Traffic Analysis](https://github.com/Chizzywiz/ransomwaresimulationscript/blob/main/README.md)
 - <b>Vulnerability Management</b>
   
 
