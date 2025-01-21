@@ -11,11 +11,11 @@ As an Information security analyst, I aim to contribute to securing digital asse
 
 - <b>BASH Scripting and Automation </b>
   - [Ransomware simulation script for security testing ](https://github.com/Chizzywiz/ransomwaresimulationscript/blob/main/README.md)
-  - [GnuPG automatic encryption script PLUS cron task scheduler ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [GnuPG automatic encryption script PLUS cron task scheduler ](https://github.com/Chizzywiz/GnuPG-automatic-encryption-script/blob/main/README.md)
 - <b>Digital Forensics and Malware Analysis Lab (Dynamic Malware Analysis and Disk image extraction) </b>
-  - [Wannacry ransomware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Wannacry ransomware Analysis] 
 - <b>Network Traffic Analysis</b>
-  - [Wireshark Network Traffic Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Wireshark Network Traffic Analysis]
 - <b>Vulnerability Management</b>
   
 
