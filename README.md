@@ -10,7 +10,7 @@ As an Information security analyst, I aim to contribute to securing digital asse
 <h2>👨‍💻 CYBERSECURITY PROJECTS AND SKILLS:</h2>
 
 - <b>BASH Scripting and Automation </b>
-  - [Ransomware simulation script for security testing ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Ransomware simulation script for security testing ](https://github.com/Chizzywiz/ransomwaresimulationscript/blob/main/README.md)
   - [GnuPG automatic encryption script PLUS cron task scheduler ](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Digital Forensics and Malware Analysis Lab (Dynamic Malware Analysis and Disk image extraction) </b>
   - [Wannacry ransomware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
