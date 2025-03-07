@@ -3,7 +3,7 @@
 
 
 ## OBJECTIVE
-As an Information security analyst, I aim to contribute to securing digital assets and, by extension, the people and reputation associated with your company. Three of my key skills include open-source intelligence analysis, attack surface management, and interpreting technical content for non-technical stakeholders. 
+As a Cybersecurity analyst, I aim to contribute to securing digital assets and, by extension, the people and reputation associated with your company. Three of my key skills include threat intelligence analysis, attack surface management, network security and interpreting technical content for non-technical stakeholders. 
 
 
 
@@ -16,15 +16,20 @@ As an Information security analyst, I aim to contribute to securing digital asse
   - [Wannacry ransomware Analysis] 
 - <b>Network Traffic Analysis</b>
   - [Wireshark Network Traffic Analysis](https://github.com/Chizzywiz/ransomwaresimulationscript/blob/main/README.md)
-- <b>Vulnerability Management</b>
+- <b>Phising Email Investigations</b>
+  - [Investigating a domain from a phishing email](https://docs.google.com/document/d/1E74AGlkGJOkulHa4jzOW1vhskVPbZnM-SON_vlnKB6U/edit?usp=sharing)
+- <b>OSINT Projects</b>
+  - [Scraping List of Blockchain companies from Wikipedia](https://github.com/chisorom/OSINT_projects/blob/main/webpage_blockchainlist_wikipedia_scraper)
+
   
 
 
 <h2>👨‍💻 CERTIFICATIONS:</h2>
 FortiGate 7.4 Administrator - (https://www.credly.com/badges/b28e03f4-0e64-4246-8949-2436b4445128/public_url)
 
-<h2>👨‍💻 SCRIPTING LANGUAGES:</h2>
+<h2>👨‍💻 SCRIPTING & PROGRAMMING LANGUAGES:</h2>
 Scripting languages: Python, Bash, SQL.
+Programming languages: Solidity (Intermediate level)
 
 <h2>👨‍💻 SECURITY BLOG:</h2>
  https://medium.com/%40chiobika 
