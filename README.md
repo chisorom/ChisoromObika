@@ -3,7 +3,7 @@
 
 
 ## OBJECTIVE
-As a Cybersecurity analyst, I aim to contribute to securing digital assets and, by extension, the people and reputation associated with your company. Three of my key skills include threat intelligence analysis, attack surface management, network security and interpreting technical content for non-technical stakeholders. 
+As a Cybersecurity analyst, I aim to contribute to securing digital assets and, by extension, the people and reputation associated with your company. My top 4 skills include threat intelligence analysis, attack surface management, network security and interpreting technical content for non-technical stakeholders. 
 
 
 
@@ -12,8 +12,8 @@ As a Cybersecurity analyst, I aim to contribute to securing digital assets and, 
 - <b>BASH Scripting and Automation </b>
   - [Ransomware simulation script for security testing ](https://github.com/Chizzywiz/ransomwaresimulationscript/blob/main/README.md)
   - [GnuPG automatic encryption script PLUS cron task scheduler ](https://github.com/Chizzywiz/GnuPG-automatic-encryption-script/blob/main/README.md)
-- <b>Digital Forensics and Malware Analysis Lab (Dynamic Malware Analysis and Disk image extraction) </b>
-  - [Wannacry ransomware Analysis] 
+- <b>Digital Forensics and Malware Analysis Lab  </b>
+  - [Wannacry ransomware dynamic Analysis] 
 - <b>Network Traffic Analysis</b>
   - [Wireshark Network Traffic Analysis](https://github.com/Chizzywiz/ransomwaresimulationscript/blob/main/README.md)
 - <b>Phising Email Investigations</b>
