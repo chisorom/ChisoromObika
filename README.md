@@ -3,7 +3,7 @@
 
 
 ## OBJECTIVE
-As a Cybersecurity analyst, I aim to contribute to securing digital assets and, by extension, the people and reputation associated with your company. My top 4 skills include threat intelligence analysis, attack surface management, network security and interpreting technical content for non-technical stakeholders. 
+As a threat intelligence and OSINT analyst, I aim to contribute to securing digital assets and, by extension, the people and reputation associated with your company. My top 4 skills include threat intelligence analysis, OSINT automation, forensics and interpreting technical content for non-technical stakeholders. 
 
 
 
@@ -13,13 +13,13 @@ As a Cybersecurity analyst, I aim to contribute to securing digital assets and, 
   - [Ransomware simulation script for security testing ](https://github.com/Chizzywiz/ransomwaresimulationscript/blob/main/README.md)
   - [GnuPG automatic encryption script PLUS cron task scheduler ](https://github.com/Chizzywiz/GnuPG-automatic-encryption-script/blob/main/README.md)
 - <b>Digital Forensics and Malware Analysis Lab  </b>
-  - [Wannacry ransomware dynamic Analysis] 
+  - [Wannacry ransomware dynamic Analysis]
 - <b>Network Traffic Analysis</b>
   - [Wireshark Network Traffic Analysis](https://github.com/Chizzywiz/ransomwaresimulationscript/blob/main/README.md)
 - <b>Phising Email Investigations</b>
   - [Investigating a domain from a phishing email](https://docs.google.com/document/d/1E74AGlkGJOkulHa4jzOW1vhskVPbZnM-SON_vlnKB6U/edit?usp=sharing)
 - <b>OSINT Projects</b>
-  - [Scraping List of Blockchain companies from Wikipedia](https://github.com/chisorom/OSINT_projects/blob/main/webpage_blockchainlist_wikipedia_scraper)
+  - [Scraping & Analysing List of Blockchain companies from Wikipedia](https://github.com/chisorom/OSINT-Blockchain-Data-Collection)
 
   
 
