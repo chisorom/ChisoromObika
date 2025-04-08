@@ -7,6 +7,7 @@ As a threat intelligence and OSINT analyst, I aim to contribute to securing digi
 
 
 
+
 <h2>👨‍💻 CYBERSECURITY PROJECTS AND SKILLS:</h2>
 
 - <b>BASH Scripting and Automation </b>
@@ -28,7 +29,8 @@ As a threat intelligence and OSINT analyst, I aim to contribute to securing digi
 FortiGate 7.4 Administrator - (https://www.credly.com/badges/b28e03f4-0e64-4246-8949-2436b4445128/public_url)
 
 <h2>👨‍💻 SCRIPTING & PROGRAMMING LANGUAGES:</h2>
-Scripting languages: Python, Bash, SQL.
+Scripting languages: Python, Bash
+Data Analysis: SQL, Python
 Programming languages: Solidity (Intermediate level)
 
 <h2>👨‍💻 SECURITY BLOG:</h2>
